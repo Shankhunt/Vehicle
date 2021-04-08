@@ -8,5 +8,9 @@ public class car {
 	this.brand = brand;
 	this.speed = speed;
 	}
+	void change_speed(int speed)
+	{
+	this.speed = speed;
+	}
 
 }
